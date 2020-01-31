@@ -1,0 +1,351 @@
+#EXTM3U
+
+#EXTINF:-1, BBB CAMERA 1
+https://origin.canaismax.com/live/bbb01hd/video.m3u8?md5=NIMpz_9Y2unspDD0tRp1ew&expires=1579630057
+
+
+#EXTINF:0,ABERTOS
+
+#EXTINF:-1, SBT
+https://d3dwqawq9yp7h.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
+
+#EXTINF:-1, RECORD SP
+https://d3dwqawq9yp7h.cloudfront.net/hls1/recordsp.m3u8?wmsAuthSign=
+
+#EXTINF:-1, BAND
+https://d3dwqawq9yp7h.cloudfront.net/hls1/band.m3u8?wmsAuthSign=
+
+#EXTINF:-1, RECORD NEWS
+https://d3dwqawq9yp7h.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=
+
+#EXTINF:-1, GLOBO NEWS
+https://d3dwqawq9yp7h.cloudfront.net/hls1/globonews.m3u8?wmsAuthSign=
+
+#EXTINF:-1, BAND NEWS 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/bandnews.m3u8?wmsAuthSign=
+
+#EXTINF:-1, GLOBO SP
+https://d3dwqawq9yp7h.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
+
+#EXTINF:0,ESPORTES 
+
+#EXTINF:-1,FOX SPORTS
+https://origin.canaismax.com/mylive/foxsportshd/video.m3u8?md5=RLN-uxW_HHuBAKKFJdSfsQ&expires=1579758007
+
+#EXTINF:-1,FOX SPORTS (FULL HD)
+https://d3dwqawq9yp7h.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
+
+#EXTINF:-1,FOX SPORTS 2
+https://origin.canaismax.com/live/foxsports2hd/video.m3u8?md5=zN2WSXxLYchMj0GFa4-84Q&expires=1579758098
+
+#EXTINF:-1,FOX SPORTS 2 (full hd)
+https://d3dwqawq9yp7h.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
+
+#EXTINF:-1,ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_240_av-p.m3u8
+
+#EXTINF:-1,ESPN 
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ESPN 2
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ESPN EXTRA
+https://d3dwqawq9yp7h.cloudfront.net/hls1/espnextra.m3u8?wmsAuthSign=
+
+#EXTINF:-1,SPORTV 1
+https://d3dwqawq9yp7h.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
+
+#EXTINF:-1,SPORTV 2
+https://d3dwqawq9yp7h.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=
+
+#EXTINF:-1,SPORTV 3 
+http://198.255.23.18:2095/streams/74_.m3u8
+
+#EXTINF:-1,SPORTV 3 (opção 2)
+https://d3dwqawq9yp7h.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere Clubes
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 2
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 3
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 4
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 5
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere5.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 6
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 7
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=
+
+#EXTINF:0
+#EXTINF:0
+
+
+
+#EXTINF:0,DOCUMENTARIO
+
+#EXTINF:-1,DISCOVERY CHANNEL
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
+
+#EXTINF:-1,ANIMAL PLANET
+https://d3dwqawq9yp7h.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=
+
+#EXTINF:-1,HISTORY
+https://d3dwqawq9yp7h.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
+
+#EXTINF:-1,HISTORY 2
+https://d3dwqawq9yp7h.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
+
+#EXTINF:-1, NATIONAL GEO WILD 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=
+
+#EXTINF:-1, NAT GEOGRAPHIC CHANNEL 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY THEATER 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoverytheater.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY SCIENCE
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY CIVILIZATION
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoverycivilization.m3u8?wmsAuthSign=
+
+#EXTINF:-1, INVESTIOGAÇAO DISCOVERY
+https://d3dwqawq9yp7h.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY WORLD
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoveryworld.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY HOME & HEALTH
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
+
+#EXTINF:-1,FISH TV
+https://d3dwqawq9yp7h.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=
+
+#EXTINF:0, FILMES
+
+#EXTINF:-1,HBO PLUS 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=
+
+#EXTINF:-1,HBO SIGNATURE
+https://d3dwqawq9yp7h.cloudfront.net/hls1/hbosignature.m3u8?wmsAuthSign=
+
+#EXTINF:-1,HBO FAMILY
+https://d3dwqawq9yp7h.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=
+
+#EXTINF:-1,HBO 2
+http://198.255.23.18:2095/streams/188_.m3u8
+
+#EXTINF:-1,TELECINE PIPOCA
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TELECINE FUN
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TELECINE TOUCH
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TELECINE ACTION
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TELECINE PREMIUM
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
+
+#EXTINF:-1,SONY
+https://d3dwqawq9yp7h.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MAX PRIME
+https://d3dwqawq9yp7h.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=
+
+#EXTINF:-1, TCM
+https://d3dwqawq9yp7h.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign=
+
+#EXTINF:-1, TNT SERIES
+https://d3dwqawq9yp7h.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
+
+#EXTINF:-1, PARAMOUNT
+https://d3dwqawq9yp7h.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=
+
+#EXTINF:-1, SYFY
+https://d3dwqawq9yp7h.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=
+
+#EXTINF:-1, STUDIO UNIVERSAL
+https://d3dwqawq9yp7h.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=
+
+#EXTINF:-1, SPACE
+https://d3dwqawq9yp7h.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
+
+#EXTINF:-1, FX
+https://d3dwqawq9yp7h.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
+
+#EXTINF:-1, WARNEY TV 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
+
+#EXTINF:-1, UNIVERSAL CHANNEL 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=
+
+#EXTINF:-1, TELECINE CULT
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MEGAPIX
+https://d3dwqawq9yp7h.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MAX UP 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MAX
+https://d3dwqawq9yp7h.cloudfront.net/hls1/max.m3u8?wmsAuthSign=
+
+#EXTINF:-1, FOX PREMIUM 2
+https://d3dwqawq9yp7h.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=
+
+#EXTINF:-1, FOX PREMIUM 1
+https://d3dwqawq9yp7h.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
+
+#EXTINF:-1, FOX
+https://d3dwqawq9yp7h.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
+
+#EXTINF:-1, CINEMAX
+https://d3dwqawq9yp7h.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
+
+#EXTINF:-1, AXN
+https://d3dwqawq9yp7h.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=
+
+#EXTINF:-1, AMC
+https://d3dwqawq9yp7h.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
+
+#EXTINF:-1, A&E
+https://d3dwqawq9yp7h.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=
+
+#EXTINF:0,, MUSICAS
+
+#EXTINF:-1,SPACE * MUSICA
+https://d3dwqawq9yp7h.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MTV TRADICIONAL
+https://d3dwqawq9yp7h.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MTV LIVE
+https://d3dwqawq9yp7h.cloudfront.net/hls1/mtvlive.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MULTISHOW
+https://d3dwqawq9yp7h.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
+
+#EXTINF:0, DESENHOS 
+
+#EXTINF:-1, BOOMERANG * DESENHO
+https://d3dwqawq9yp7h.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=
+
+#EXTINF:-1, ZOOMOO
+https://d3dwqawq9yp7h.cloudfront.net/hls1/zoomoo.m3u8?wmsAuthSign=
+
+#EXTINF:-1, TOONCAST
+https://d3dwqawq9yp7h.cloudfront.net/hls1/tooncast.m3u8?wmsAuthSign=
+
+#EXTINF:-1, NICK JR
+https://d3dwqawq9yp7h.cloudfront.net/hls1/nickjr.m3u8?wmsAuthSign=
+
+#EXTINF:-1,NICKELODEAN
+https://d3dwqawq9yp7h.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=
+
+#EXTINF:-1, NAT GEO KIDS
+https://d3dwqawq9yp7h.cloudfront.net/hls1/natgeokids.m3u8?wmsAuthSign=
+
+#EXTINF:-1, GLOOB
+https://d3dwqawq9yp7h.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISNEY XD
+https://d3dwqawq9yp7h.cloudfront.net/hls1/disneyxd.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISNEY JUNIOR
+https://d3dwqawq9yp7h.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISNEY CHANNEL
+https://d3dwqawq9yp7h.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY KIDS
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
+
+#EXTINF:-1, CARTOON NETWORK
+https://d3dwqawq9yp7h.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
+
+#EXTINF:-0, OUTROS
+
+#EXTINF:-1, ARTE 1
+https://d3dwqawq9yp7h.cloudfront.net/hls1/arte1.m3u8?wmsAuthSign=
+
+#EXTINF:-1, COMBATE
+https://d3dwqawq9yp7h.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TNT
+http://198.255.23.18:2095/streams/202_.m3u8
+
+#EXTINF:-1,TNT (2 opção)
+https://d3dwqawq9yp7h.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Comedy Central
+http://198.255.23.18:2095/streams/148_.m3u8
+
+#EXTINF:-1,Comedy Central (2 opção)
+https://d3dwqawq9yp7h.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
+
+#EXTINF:-1, VIVA
+https://d3dwqawq9yp7h.cloudfront.net/hls1/viva.m3u8?wmsAuthSign=
+
+#EXTINF:-1, BIS
+https://d3dwqawq9yp7h.cloudfront.net/hls1/bis.m3u8?wmsAuthSign=
+
+#EXTINF:-1, E!
+https://d3dwqawq9yp7h.cloudfront.net/hls1/canale.m3u8?wmsAuthSign=
+
+#EXTINF:-1, CURTA!
+https://d3dwqawq9yp7h.cloudfront.net/hls1/curta.m3u8?wmsAuthSign=
+
+#EXTINF:-1, FOOD NETWORK
+https://d3dwqawq9yp7h.cloudfront.net/hls1/foodnetwork.m3u8?wmsAuthSign=
+
+#EXTINF:-1, TLC
+https://d3dwqawq9yp7h.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=
+
+#EXTINF:-1, OFF
+https://d3dwqawq9yp7h.cloudfront.net/hls1/off.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MAIS GLOBOSAT
+https://d3dwqawq9yp7h.cloudfront.net/hls1/maisbobosat.m3u8?wmsAuthSign=
+
+#EXTINF:-1,GNT 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=
+
+#EXTINF:-1,FOX LIFE 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=
+
+#EXTINF:-1, LIFE TIME
+https://d3dwqawq9yp7h.cloudfront.net/hls1/lifetime.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TV Aparecida
+http://198.255.23.18:2095/streams/38_.m3u8
+
+#EXTINF:-1,TV Brasil
+http://198.255.23.18:2095/streams/39_.m3u8
+
+#EXTINF:-1,TV Brasil
+http://198.255.23.18:2095/streams/40_.m3u8
+
+#EXTINF:-1,TV Justica
+http://198.255.23.18:2095/streams/42_.m3u8
+
+#EXTINF:-1,TV Ratimbum
+http://198.255.23.18:2095/streams/136_.m3u8
+
+#EXTINF:-1,TV Senado
+http://198.255.23.18:2095/streams/44_.m3u8
